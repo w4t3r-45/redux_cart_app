@@ -4,7 +4,7 @@ import Products from './components/Shop/Products';
 import {useSelector} from 'react-redux';
 
 function App() {
-  const visible = useSelector(state => state.ui.visible);
+  const visible = useSelector(state => state.cart.visible);
   return (
     <Layout>
       {visible && <Cart />}
