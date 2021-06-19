@@ -1,0 +1,214 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Langosh, Hilpert and Doyle",
+      "price": 199,
+      "description": "Screening for other rheumatic disorders",
+      "totalPrice": 0
+    },
+    {
+      "id": 2,
+      "name": "Connelly-Hyatt",
+      "price": 242,
+      "description": "Unspecified derangement of joint, shoulder region",
+      "totalPrice": 0
+    },
+    {
+      "id": 3,
+      "name": "Gaylord-Bruen",
+      "price": 9,
+      "description": "Epilepsia partialis continua, with intractable epilepsy",
+      "totalPrice": 0
+    },
+    {
+      "id": 4,
+      "name": "Prosacco, Corkery and O'Connell",
+      "price": 186,
+      "description": "Malignant neoplasm of lateral wall of urinary bladder",
+      "totalPrice": 0
+    },
+    {
+      "id": 5,
+      "name": "Rutherford-Corkery",
+      "price": 89,
+      "description": "Accidental poisoning by psychostimulants",
+      "totalPrice": 0
+    },
+    {
+      "id": 6,
+      "name": "Buckridge, Turcotte and Leannon",
+      "price": 25,
+      "description": "Unspecified congenital anomalies of face and neck",
+      "totalPrice": 0
+    },
+    {
+      "id": 7,
+      "name": "D'Amore, Lowe and Gaylord",
+      "price": 189,
+      "description": "Other hemolytic anemias due to enzyme deficiency",
+      "totalPrice": 0
+    },
+    {
+      "id": 8,
+      "name": "Ernser-Nader",
+      "price": 218,
+      "description": "Anterior soft tissue impingement",
+      "totalPrice": 0
+    },
+    {
+      "id": 9,
+      "name": "McCullough-Satterfield",
+      "price": 89,
+      "description": "Neoplasm of uncertain behavior of breast",
+      "totalPrice": 0
+    },
+    {
+      "id": 10,
+      "name": "Champlin-McCullough",
+      "price": 112,
+      "description": "Villonodular synovitis, ankle and foot",
+      "totalPrice": 0
+    },
+    {
+      "id": 11,
+      "name": "Smitham-Pouros",
+      "price": 38,
+      "description": "Unspecified abortion, with unspecified complication, incomplete",
+      "totalPrice": 0
+    },
+    {
+      "id": 12,
+      "name": "Gerhold and Sons",
+      "price": 205,
+      "description": "Other and unspecified intracranial hemorrhage following injury with open intracranial wound, with loss of consciousness of unspecified duration",
+      "totalPrice": 0
+    },
+    {
+      "id": 13,
+      "name": "Johns-Nienow",
+      "price": 1,
+      "description": "Superficial foreign body (splinter) of hand(s) except finger(s) alone, without major open wound, infected",
+      "totalPrice": 0
+    },
+    {
+      "id": 14,
+      "name": "O'Connell-Lockman",
+      "price": 210,
+      "description": "Allergic arthritis, upper arm",
+      "totalPrice": 0
+    },
+    {
+      "id": 15,
+      "name": "Lebsack, Reinger and Kutch",
+      "price": 42,
+      "description": "Cerebellar or brain stem contusion with open intracranial wound, unspecified state of consciousness",
+      "totalPrice": 0
+    },
+    {
+      "id": 16,
+      "name": "Purdy-Johnson",
+      "price": 45,
+      "description": "Body Mass Index 25.0-25.9, adult",
+      "totalPrice": 0
+    },
+    {
+      "id": 17,
+      "name": "Ondricka Group",
+      "price": 113,
+      "description": "Cardiovascular syphilis, unspecified",
+      "totalPrice": 0
+    },
+    {
+      "id": 18,
+      "name": "Hauck, Cruickshank and Cruickshank",
+      "price": 145,
+      "description": "Male infertility, unspecified",
+      "totalPrice": 0
+    },
+    {
+      "id": 19,
+      "name": "Harber-Romaguera",
+      "price": 108,
+      "description": "Closed dislocation of jaw",
+      "totalPrice": 0
+    },
+    {
+      "id": 20,
+      "name": "Schneider LLC",
+      "price": 75,
+      "description": "Subjective tinnitus",
+      "totalPrice": 0
+    },
+    {
+      "id": 21,
+      "name": "Lueilwitz and Sons",
+      "price": 193,
+      "description": "Closed fractures involving skull or face with other bones, with intracranial injury of other and unspecified nature, with loss of consciousness of unspecified duration",
+      "totalPrice": 0
+    },
+    {
+      "id": 22,
+      "name": "Lubowitz LLC",
+      "price": 21,
+      "description": "Other and unspecified disorder of breast associated with childbirth, delivered, with or without mention of antepartum condition",
+      "totalPrice": 0
+    },
+    {
+      "id": 23,
+      "name": "Haag and Sons",
+      "price": 216,
+      "description": "Acquired acanthosis nigricans",
+      "totalPrice": 0
+    },
+    {
+      "id": 24,
+      "name": "Kunze Inc",
+      "price": 250,
+      "description": "Personal history of malignant neoplasm of male genital organ, unspecified",
+      "totalPrice": 0
+    },
+    {
+      "id": 25,
+      "name": "Homenick, Kihn and Paucek",
+      "price": 54,
+      "description": "Squamous blepharitis",
+      "totalPrice": 0
+    },
+    {
+      "id": 26,
+      "name": "Gleichner LLC",
+      "price": 48,
+      "description": "Cyst of kidney, acquired",
+      "totalPrice": 0
+    },
+    {
+      "id": 27,
+      "name": "Rutherford-Nikolaus",
+      "price": 91,
+      "description": "Abnormality in fetal heart rate or rhythm, antepartum condition or complication",
+      "totalPrice": 0
+    },
+    {
+      "id": 28,
+      "name": "Steuber and Sons",
+      "price": 141,
+      "description": "Streptococcus infection in conditions classified elsewhere and of unspecified site, streptococcus, group A",
+      "totalPrice": 0
+    },
+    {
+      "id": 29,
+      "name": "Collins, Lubowitz and Bernier",
+      "price": 185,
+      "description": "Stress fracture of femoral neck",
+      "totalPrice": 0
+    },
+    {
+      "id": 30,
+      "name": "Cormier, Auer and Dooley",
+      "price": 13,
+      "description": "Ankylosis of joint, shoulder region",
+      "totalPrice": 0
+    }
+  ]
+}

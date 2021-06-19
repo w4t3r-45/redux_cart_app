@@ -1,9 +1,11 @@
 import { constants } from '../actions/constants';
 
 const INIT_STATE = {
+  allItems:[],
   items: [],
   visible: true,
-  totalQuantity: 0
+  totalQuantity: 0,
+  fetching:false
 }
 
 export const cartReducer = (state = INIT_STATE, action) => {
@@ -68,6 +70,16 @@ export const cartReducer = (state = INIT_STATE, action) => {
       return {
         ...state,
         visible: !state.visible,
+      }
+    case "FETCHING":
+      return{
+        ...state ,
+        fetching:true
+      }
+    case "DATA_READY":
+      // here we will set our data to items table in our state object
+      return{
+        ...state , allItems : [...action.payload] , fetching:false
       }
     default:
       return state
